@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "constretto:constretto-api": "2.2.1"
+  }
+}
